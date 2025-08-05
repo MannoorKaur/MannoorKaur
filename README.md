@@ -27,7 +27,7 @@ I'm a Computing and Data Science student at the **University of Western Australi
 <img src="https://img.shields.io/badge/Excel-FFB347?style=flat&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-FFCC5C?style=flat&logo=power-bi&logoColor=white" />
 
-## 💌 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannoor-kaur-202506358)
 
 Thanks for visiting! 
